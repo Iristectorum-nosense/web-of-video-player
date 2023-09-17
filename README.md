@@ -6,7 +6,10 @@
 <img src='https://github.com/Iristectorum-nosense/web-of-video-player/blob/main/assets/1686905733866.png' />
 
 ## 项目简介
-本项目是一个基于 video.js + flv.js 的视频播放器，该项目实现 mov / mp4 / flv 视频文件的播放，支持对视频反色、涂抹马赛克、截屏和录制。
+一款支持在浏览器播放主流类型视频文件的 Web 应用，包含像素反转、马赛克处理、截屏和录屏功能。
+1.实现浏览器播放 MOV / MP4 / FLV 格式的视频文件。
+2.实现视频播放时像素反转，鼠标涂抹马赛克，利用 <canvas> 实时显示处理画面。
+3.实现原画面、像素反转画面、马赛克处理画面的截屏和录屏，并自动下载保存至默认路径。
 
 ## 技术栈
 <img src='https://img.shields.io/badge/React.js-orange' /> <img src='https://img.shields.io/badge/video.js-green' /> <img src='https://img.shields.io/badge/flv.js-green' />
